@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "usuario": [
     {"id": 1, "Nombre": "Luciana", "Apellido": "Sarate", "idPais": 1},
     {"id": 2, "Nombre": "Juana", "Apellido": "Sanches", "idPais": 1},
     {"id": 3, "Nombre": "Laura", "Apellido": "Juarez", "idPais": 3},
