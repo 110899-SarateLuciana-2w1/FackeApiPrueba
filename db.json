@@ -1,0 +1,13 @@
+{
+  "posts" : [
+    {"id": 1, "Nombre" : "Luciana", "Apellido" : "Sarate" , "idPais" : 1},
+    {"id": 2, "Nombre" : "Juana", "Apellido" : "Sanches", "idPais" : 1 },
+    {"id": 3, "Nombre" : "Laura", "Apellido" : "Juarez", "idPais" : 3 },
+    {"id": 4, "Nombre" : "Selma", "Apellido" : "Pataqui", "idPais" : 2 },
+  ] ,
+  "pais" : [
+    {"id": 1, "Nombre" : "Argentina"},
+    {"id": 2, "Nombre" : "EEUU"},
+    {"id": 3, "Nombre" : "España"}
+  ]
+}
