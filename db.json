@@ -1,11 +1,21 @@
 {
-  "usuario": [
-    {"id": 1, "Nombre": "Luciana", "Apellido": "Sarate", "idPais": 1},
-    {"id": 2, "Nombre": "Juana", "Apellido": "Sanches", "idPais": 1},
-    {"id": 3, "Nombre": "Laura", "Apellido": "Juarez", "idPais": 3},
-    {"id": 4, "Nombre": "Selma", "Apellido": "Pataqui", "idPais": 2}
+  "iva": [
+    {"id": 1, "Nombre": "Luciana", "cuit": "Sarate","idcatalogo": 1},
+    {"id": 2, "Nombre": "Juana", "Apellido": "Sanches", "idcatalogo": 1},
+    {"id": 3, "Nombre": "Laura", "Apellido": "Juarez", "idcatalogo": 3},
+    {"id": 4, "Nombre": "Selma", "Apellido": "Pataqui", "idcatalogo": 2}
   ],
-  "pais": [
+  "provincia": [
+    {"id": 1, "Nombre": "Cordoba"},
+    {"id": 2, "Nombre": "BsAs"},
+    {"id": 3, "Nombre": "Mandoza"}
+  ]
+  "barrio": [
+    {"id": 1, "Nombre": "Arguello"},
+    {"id": 2, "Nombre": "Nueva Cordoba"},
+    {"id": 3, "Nombre": "Las margaritas"}
+  ]
+  "localidad": [
     {"id": 1, "Nombre": "Argentina"},
     {"id": 2, "Nombre": "EEUU"},
     {"id": 3, "Nombre": "España"}
