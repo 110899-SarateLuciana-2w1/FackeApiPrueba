@@ -1,13 +1,50 @@
 {
-  "usuario": [
-    {"id": 1, "Nombre": "Luciana", "Apellido": "Sarate", "idPais": 1},
-    {"id": 2, "Nombre": "Juana", "Apellido": "Sanches", "idPais": 1},
-    {"id": 3, "Nombre": "Laura", "Apellido": "Juarez", "idPais": 3},
-    {"id": 4, "Nombre": "Selma", "Apellido": "Pataqui", "idPais": 2}
-  ],
-  "pais": [
-    {"id": 1, "Nombre": "Argentina"},
-    {"id": 2, "Nombre": "EEUU"},
-    {"id": 3, "Nombre": "España"}
-  ]
+  "remitos":[
+  {
+    "id": 1,
+    "receiptNumber": 1,
+    "purchaseOrderNumber": 1,
+    "observations": "some description",
+    "arrivalDate": [2023, 10,26,1,13,32, 512000000],
+    "supplierName": "some name",
+    "details": [
+      {
+        "id": 1,
+        "quantity": 5,
+        "productName": "Sample Product",
+        "detail": "Sample detail description"
+      }]
+  },
+    {
+    "id": 2,
+    "receiptNumber": 2,
+    "purchaseOrderNumber": 2,
+    "observations": "some description",
+    "arrivalDate": [2023, 10,26,1,13,32, 512000000],
+    "supplierName": "some name",
+    "details": [
+      {
+        "id": 1,
+        "quantity": 5,
+        "productName": "Sample Product",
+        "detail": "Sample detail description"
+      }]
+  },
+    {
+    "id": 3,
+    "receiptNumber": 3,
+    "purchaseOrderNumber": 3,
+    "observations": "some description",
+    "arrivalDate": [2023, 10,26,1,13,32, 512000000],
+    "supplierName": "some name",
+    "details": [
+      {
+        "id": 1,
+        "quantity": 5,
+        "productName": "Sample Product",
+        "detail": "Sample detail description"
+      }]
+  }
+    
+]
 }
